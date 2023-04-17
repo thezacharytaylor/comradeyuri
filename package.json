@@ -1,7 +1,13 @@
 {
   "name": "comradeyuri",
-  "displayName": "comradeyuri",
-  "description": "Spin on Rainglow's Comrade theme",
+  "displayName": "Comrade Yuri",
+  "description": "More contrast friendly spin on Rainglow's Comrade theme",
+  "publisher": "ztaylor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thezacharytaylor/comradeyuri.git"
+  },
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
