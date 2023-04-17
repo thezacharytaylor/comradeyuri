@@ -12,9 +12,11 @@ I enjoyed the concept of the Rainglow Comrade theme, however I wanted brighter t
 [] Gruvbox color alternates for each 3.
 [] My own spin on each 3
 
-## For more information
+## Thank Yous
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Big thanks to:
+[daylerees](https://github.com/daylerees) creator of the rainglow themes
+[sdras](https://github.com/sdras) creator of the CSS Tricks guide I used to make this.
 
-**Enjoy!**
+[Rainglow Themes](https://github.com/rainglow)
+[Sarah Drasner's Article](https://css-tricks.com/creating-a-vs-code-theme/)
