@@ -6,11 +6,11 @@ I enjoyed the concept of the Rainglow Comrade theme, however I wanted brighter t
 
 ## TODO:
 
-[] More a11y friendly contrast for original light
-[] More a11y friendly contrast for original dark theme
-[] More a11y friendly contrast for original contrast theme
-[] Gruvbox color alternates for each 3.
-[] My own spin on each 3
+- [ ] More a11y friendly contrast for original light
+- [ ] More a11y friendly contrast for original dark theme
+- [ ] More a11y friendly contrast for original contrast theme
+- [ ] Gruvbox color alternates for each 3.
+- [ ] My own spin on each 3
 
 ## Thank Yous
 
