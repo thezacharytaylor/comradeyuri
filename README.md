@@ -1,4 +1,4 @@
-# Comrade Yuri README
+# Comrade Yuri VS Code Theme
 
 I enjoyed the concept of the Rainglow Comrade theme, however I wanted brighter text colors for more contrast. This is just that.
 
