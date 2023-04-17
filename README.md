@@ -14,9 +14,9 @@ I enjoyed the concept of the Rainglow Comrade theme, however I wanted brighter t
 
 ## Thank Yous
 
-Big thanks to:
-[daylerees](https://github.com/daylerees) creator of the rainglow themes
+Big thanks to: <br>
+[daylerees](https://github.com/daylerees) creator of the rainglow themes <br>
 [sdras](https://github.com/sdras) creator of the CSS Tricks guide I used to make this.
 
-[Rainglow Themes](https://github.com/rainglow)
+[Rainglow Themes](https://github.com/rainglow) <br>
 [Sarah Drasner's Article](https://css-tricks.com/creating-a-vs-code-theme/)
