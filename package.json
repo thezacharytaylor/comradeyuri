@@ -8,7 +8,7 @@
     "url": "https://github.com/thezacharytaylor/comradeyuri.git"
   },
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -24,12 +24,12 @@
       },
       {
         "label": "Comrade Yuri Light",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/comrade-yuri-light.json"
       },
       {
         "label": "Comrade Yuri Contrast",
-        "uiTheme": "vs-dark",
+        "uiTheme": "hc-black",
         "path": "./themes/comrade-yuri-contrast.json"
       }
     ]
