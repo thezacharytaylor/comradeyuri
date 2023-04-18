@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.7
+
+Adding a11y specific version for Dark theme. Slight confusion in Light has straight a11y tweaks, but Dark gets a separate version noting this. Will clear up in later patch.
+
 ## 0.0.6
 
 Fixing theme labels, contrast, light, etc. Undoing some workbench tweaks.
