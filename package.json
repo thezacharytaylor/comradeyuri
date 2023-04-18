@@ -35,7 +35,7 @@
       {
         "label": "Comrade Yuri Light A11y",
         "uiTheme": "vs",
-        "path": "./themes/comrade-yuri-light.json"
+        "path": "./themes/comrade-yuri-light-a11y.json"
       },
       {
         "label": "Comrade Yuri Contrast",

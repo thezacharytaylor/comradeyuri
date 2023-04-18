@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.0.9
+
+Fixing up with light a11y theme path.
+
+## 0.0.8
+
+A11y theme for light.
+
 ## 0.0.7
 
 Adding a11y specific version for Dark theme. Slight confusion in Light has straight a11y tweaks, but Dark gets a separate version noting this. Will clear up in later patch.
