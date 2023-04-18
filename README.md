@@ -1,8 +1,15 @@
 # Comrade Yuri VS Code Theme
 
+## Currently in progress
+
 I enjoyed the concept of the Rainglow Comrade theme, however I wanted brighter text colors for more contrast. This is just that.
 
-## Currently in progress
+## Themes
+
+Comrade Yuri - Dark Theme with slight tweaks to up contrast on characters
+Comrade Yuri A11y - A11y friendly contrast tweaks to theme
+Comrade Yuri Light - Contrast, though a11y friendly, tweaks to character contrast
+Comrade Yuri Contrast - Unmodified as of now.
 
 ## TODO:
 
