@@ -7,8 +7,9 @@ I enjoyed the concept of the Rainglow Comrade theme, however I wanted brighter t
 ## Themes
 
 Comrade Yuri - Dark Theme with slight tweaks to up contrast on characters
-Comrade Yuri A11y - A11y friendly contrast tweaks to theme
-Comrade Yuri Light - Contrast, though a11y friendly, tweaks to character contrast
+Comrade Yuri A11y - A11y friendly tweaks to character contrast
+Comrade Yuri Light - Contrast with slight tweaks.
+Comrade Yuri Light A11y - A11y friendly tweaks to character contrast
 Comrade Yuri Contrast - Unmodified as of now.
 
 ## TODO:
